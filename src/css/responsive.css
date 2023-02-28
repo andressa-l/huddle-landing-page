@@ -1,0 +1,59 @@
+@media (max-width: 1200px){
+    body {
+        background: var(--primary-violet) url(../images/bg-mobile.svg) no-repeat top;
+        background-size: contain;
+    }
+
+    .header {
+        margin: 0 2rem;
+        height: 15vh;
+    }
+
+    .header img {
+        max-width: 15rem;
+    }
+
+
+    main {
+        height: fit-content;
+        grid-template-columns: 1fr;
+        padding: 3rem 4rem;
+    }
+
+    .text-right {
+        text-align: center;
+        padding: 2rem 0 5rem;
+        flex-direction: column;
+        gap: 2.5rem;
+    }
+
+    .text-right a {
+        align-self: center;
+    }
+
+    .text-right h1 {
+        font-size: 3.3rem;
+        align-self: center;
+    }
+    .text-right p {
+        font-size: 2.1rem;
+    }
+
+
+    .text-right .btn-register {
+        padding: 1.2rem 10rem;
+    }
+
+    .footer .social {
+        justify-content: center;
+        align-self: center;
+        
+    }
+
+    .footer .social a {
+        display: flex;
+        width: 0.1rem;
+        height: 0.1rem;
+        font-size: 1.5rem;
+    }
+} 

@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-Esta é uma solução para a página inicial do Huddle com um único desafio de seção introdutória no Frontend Mentor. Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+Esta é uma solução para a página inicial do Huddle um desafio com seção introdutória única do Frontend Mentor. Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
 ## Challenges 🚀
 
